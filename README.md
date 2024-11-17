@@ -139,10 +139,9 @@ The analysis indicates that loan defaults are influenced by multiple factors, in
 - This project was inspired by UpGrad(IIITB) in AI/ML Executive Post Graduate course as a case study
 - This project was based on (https://learn.upgrad.com/course/5811/segment/53276/316332/957998/4783501).
 
+## Contact
+Created by [@androidev1] -- feel free to contact us!
+
 ## Contributors
 - Ashish Kumar Agrawal
 - Abhishek Sharma
-
-## Contact
-Created by [Ashish Agrawal & Abhishek Sharma] - feel free to contact us!
-
